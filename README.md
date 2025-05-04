@@ -29,7 +29,7 @@ I started programming in assembler on an HP48, then in the web with PHP and JS. 
 <h3 align="left">Languages and Tools:</h3>
 
 [![My Skills](https://skillicons.dev/icons?i=adonis,angular,bootstrap,bun,c,cpp,cmake,css,docker,git,github,go,graphql,html,htmx,java,js,jest,laravel,linux,mongodb,mysql,nodejs,ps,php,pnpm,postgres,postman,react,py,redis,redux,rust,sqlite,solidjs,symfony,tailwind,tauri,ts,ubuntu,vite,vitest,vscode,wasm,windows&perline=15)](https://skillicons.dev)
-<br>
+<br><br>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=phiphou&show_icons=true&locale=en&layout=compact&theme=ayu-mirage&show_icons=true" alt="phiphou" /></p>
 <br>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=phiphou&show_icons=true&locale=en&theme=ayu-mirage&show_icons=true" alt="phiphou" /></p>
