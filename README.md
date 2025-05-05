@@ -30,8 +30,15 @@ I started programming in assembler on an HP48, then in the web with PHP and JS. 
 
 [![My Skills](https://skillicons.dev/icons?i=adonis,angular,bootstrap,bun,c,cpp,cmake,css,docker,git,github,go,graphql,html,htmx,java,js,jest,laravel,linux,mongodb,mysql,nodejs,ps,php,pnpm,postgres,postman,react,py,redis,redux,rust,sqlite,solidjs,symfony,tailwind,tauri,ts,ubuntu,vite,vitest,vscode,wasm,windows&perline=15)](https://skillicons.dev)
 <br><br>
+
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=phiphou&show_icons=true&locale=en&layout=compact&theme=ayu-mirage&count_private=true" alt="phiphou" /></p>
 <br>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=phiphou&show_icons=true&locale=en&theme=ayu-mirage&count_private=true" alt="phiphou" /></p>
 <br>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=phiphou&theme=ayu-mirage&count_private=true" alt="phiphou" /></p>
+
+[![My user statistics](https://raw.githubusercontent.com/phiphou/phiphou/refs/heads/main/images/repos.svg)](https://github.com/cicirello/user-statistician)
+
+[![My user statistics](https://raw.githubusercontent.com/phiphou/phiphou/refs/heads/main/images/contribs.svg)](https://github.com/cicirello/user-statistician)
+
+[![My user statistics](https://raw.githubusercontent.com/phiphou/phiphou/refs/heads/main/images/languages.svg)](https://github.com/cicirello/user-statistician)

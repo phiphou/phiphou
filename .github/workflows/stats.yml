@@ -14,10 +14,20 @@ jobs:
     steps:
     - uses: actions/checkout@v4
 
+    - name: Generate the general statistics
+      uses: cicirello/user-statistician@v1
+      with:
+        image-file: images/general.svg
+        colors: dark
+        hide-keys: languages, contributions, repositories
+      env:
+        GITHUB_TOKEN: ${{secrets.GITHUB_TOKEN}}
+
     - name: Generate the languages distribution
       uses: cicirello/user-statistician@v1
       with:
         image-file: images/languages.svg
+        colors: dark
         hide-keys: general, contributions, repositories
       env:
         GITHUB_TOKEN: ${{secrets.GITHUB_TOKEN}}
@@ -26,6 +36,7 @@ jobs:
       uses: cicirello/user-statistician@v1
       with:
         image-file: images/contribs.svg
+        colors: dark
         hide-keys: general, languages, repositories
       env:
         GITHUB_TOKEN: ${{secrets.GITHUB_TOKEN}}
@@ -34,6 +45,7 @@ jobs:
       uses: cicirello/user-statistician@v1
       with:
         image-file: images/repos.svg
+        colors: dark
         hide-keys: general, contributions, languages
       env:
         GITHUB_TOKEN: ${{secrets.GITHUB_TOKEN}}
